@@ -1,0 +1,37 @@
+# Verb Conjugations
+# Inf.		je		tu		il/elle	nous		vous		ils/elles	Imp.(tu/il)	Imp.(nous)	Imp.(vous)
+
+être		suis	es		est		sommes		êtes		sont		sois		soyons		soyes
+avoir		ai		as		a		avons		avez		ont			aie			ayons		ayez
+#-er			-e		-es		-e		-ons		-ez			-ent		-e 			-ons		-ez
+#-ir(#1)		-s 		-s 		-t 		-ons		-ez			-ent		-s			-ons		-ez
+
+sortir		sors	sors	sort	sortons		sortez		sortent		sors		sortons		sortez
+partir		pars	pars	part	partons		partez		partent		pars		partons		partez
+dormir		dors	dors	dort	dormons		dormez		dorment		dors		dormons		dormez
+
+aller		vais	vas		va		allons		allez		vont
+faire		fais	fais	fait	faisons		faites		font
+vouloir		veux	veux	veut	voulons		voulez		veulent
+
+pouvoir		peux	peux	peut	pouvons		pouvez		peuvent
+devoir		dois	dois	doit	devons		devez		doivent
+
+boire		bois	bois	boit	buvons		buvez		boivent
+prendre		prends	prends	prend	prenons		prenez		prennent
+
+#-ir(#2)		-is		-is		-it		-issons		-issez		-issent		-is			-issons		-issez
+finir		finis	finis	finit	finissons	finissez	finissent
+choisir		choisis	choisis	choisit	choisissons	choisissez	choisissent
+grossir		grossis	grossis	grossit	grossissons	grossissez	grossissent
+#maigrir		maigris	maigris	maigrit	maigrissons	maigrissez	maigrissent
+#réfléchir	réfléchis	réfléchis	réfléchit	réfléchissons	réfléchissez	réfléchissent
+
+mettre		mets	mets	met		mettons		mettez		mettent
+
+vendre		vends	vends	vend	vendons		vendez		vendent
+descendre
+répondre
+perdre
+entendre
+attendre
